@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuWPiX12sW_VHcJdVEQkkfi5Em48mA3t263A&usqp=CAU"
